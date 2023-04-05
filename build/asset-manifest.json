@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f3c743b4.css",
+    "main.js": "/static/js/main.cf73b459.js",
+    "static/media/furniture-md.jpg": "/static/media/furniture-md.551b8a755de14d38fbb7.jpg",
+    "static/media/woodwork-sm.jpg": "/static/media/woodwork-sm.8d1f4e246f906984f059.jpg",
+    "static/media/logo.svg": "/static/media/logo.abf38a665582c28d9d883c139a1396ee.svg",
+    "index.html": "/index.html",
+    "main.f3c743b4.css.map": "/static/css/main.f3c743b4.css.map",
+    "main.cf73b459.js.map": "/static/js/main.cf73b459.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3c743b4.css",
+    "static/js/main.cf73b459.js"
+  ]
+}
