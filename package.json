@@ -28,6 +28,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://Kaweight.github.io/furniture-store/",
   "eslintConfig": {
     "extends": [
       "react-app",
