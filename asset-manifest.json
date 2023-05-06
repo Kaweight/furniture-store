@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3c743b4.css",
-    "main.js": "/static/js/main.cf73b459.js",
-    "static/media/furniture-md.jpg": "/static/media/furniture-md.551b8a755de14d38fbb7.jpg",
-    "static/media/woodwork-sm.jpg": "/static/media/woodwork-sm.8d1f4e246f906984f059.jpg",
-    "static/media/logo.svg": "/static/media/logo.abf38a665582c28d9d883c139a1396ee.svg",
-    "index.html": "/index.html",
-    "main.f3c743b4.css.map": "/static/css/main.f3c743b4.css.map",
-    "main.cf73b459.js.map": "/static/js/main.cf73b459.js.map"
+    "main.css": "/furniture-store/static/css/main.f3c743b4.css",
+    "main.js": "/furniture-store/static/js/main.87b7ff80.js",
+    "static/media/furniture-md.jpg": "/furniture-store/static/media/furniture-md.551b8a755de14d38fbb7.jpg",
+    "static/media/woodwork-sm.jpg": "/furniture-store/static/media/woodwork-sm.8d1f4e246f906984f059.jpg",
+    "static/media/logo.svg": "/furniture-store/static/media/logo.abf38a665582c28d9d883c139a1396ee.svg",
+    "index.html": "/furniture-store/index.html",
+    "main.f3c743b4.css.map": "/furniture-store/static/css/main.f3c743b4.css.map",
+    "main.87b7ff80.js.map": "/furniture-store/static/js/main.87b7ff80.js.map"
   },
   "entrypoints": [
     "static/css/main.f3c743b4.css",
-    "static/js/main.cf73b459.js"
+    "static/js/main.87b7ff80.js"
   ]
 }
